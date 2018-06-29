@@ -1,6 +1,6 @@
 {
   "name": "bitdb",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "bitdb client",
   "main": "index.js",
   "scripts": {
